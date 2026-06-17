@@ -6,3 +6,4 @@ amen
 biblio text
 amanet
 plus+provod
+rezultat
